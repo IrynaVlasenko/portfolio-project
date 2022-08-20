@@ -1,9 +1,14 @@
 h1 {
-    color: blueviolet;
+    color: black;
     font-family: 'Playfair Display', serif;
+    font-weight: bold;
 }
 
-h2 {
-    background-color: aqua;
+p {
     font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+.hero {
+    background: #F9F7FE;
+    text-align: center;
 }
